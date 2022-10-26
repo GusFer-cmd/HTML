@@ -1,9 +1,9 @@
 <h1 align="center">
-📄<br>Project HTLM/CSS 
+📄<br>OptimusTech Webpage
 </h1>
 
 ## This is a challenge that i made for Alura curse
-    The main objective here it´s put on practice what i have learn
+    The main objective here it´s put on practice what i have learn using only HTML/CSS
 
 ## Skills
 
@@ -13,7 +13,3 @@
 ## Contact
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> https://www.linkedin.com/in/gustavo-fernandes-b51372215/
-
-# OptimusTech Webpage
-
-<img src="../assets/../Challenge/assets/img/project.svg" alt="exemplo imagem">
