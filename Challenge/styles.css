@@ -1,0 +1,29 @@
+@import url("./assets/style/header.css");
+@import url("./assets/style/about.css");
+@import url("./assets/style/metrics.css");
+@import url("./assets/style/vacancies.css");
+@import url("./assets/style/types.css");
+@import url("./assets/style/collaborators.css");
+@import url("./assets/style/footer.css");
+
+:root {
+   --white-principal: #FFFFFF;
+   --gray-font: #667085;
+   --red-principal: #8E2424;
+   --black-font: #101828;
+   --border-color: #EAECF0;
+   --footer-bg: #F9FAFB;
+   --footer-copy: #98A2B3;
+   --footer-border: #D0D5DD;
+}
+
+header {
+    background-color: var(--white-principal);
+}
+
+body {
+    font-size: 16px;
+    font-family:'Inter', sans-serif;
+    width: 100%;
+    height: 100%;
+}

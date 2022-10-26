@@ -1,0 +1,33 @@
+.metrics {
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+   column-gap: 3em;
+   padding: 0 8em;
+   margin-top: 3em;
+}
+
+.metrics__item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}
+
+.metrics__number {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--red-principal);
+}
+
+.metrics__tittle {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--black-font);
+}
+
+.metrics__description {
+    font-weight: 400;
+    color: var(--gray-font);
+    text-align: start;
+    line-height: 140%;
+    max-width: 55%;
+}
