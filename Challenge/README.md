@@ -13,3 +13,7 @@
 ## Contact
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> https://www.linkedin.com/in/gustavo-fernandes-b51372215/
+
+# OptimusTech Webpage
+
+<img src="../assets/../Challenge/assets/img/project.svg" alt="exemplo imagem">
