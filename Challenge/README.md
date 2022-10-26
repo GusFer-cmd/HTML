@@ -2,7 +2,7 @@
 📄<br>OptimusTech Webpage
 </h1>
 
-## This is a challenge that i made for Alura curse
+## This is a project that i made for Alura curse
     The main objective here it´s put on practice what i have learn using only HTML/CSS
 
 ## Skills
