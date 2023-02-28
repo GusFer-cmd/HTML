@@ -12,7 +12,6 @@
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
-[![HTML5 and CSS3](https://github.com/FransLopez/logo-images/blob/master/logos/html5andcss3.png)](http://www.w3.org/) 
 
 ## Contact
 
